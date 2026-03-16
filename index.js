@@ -1,1 +1,1 @@
-contole.log("eai")
+console.log("eai")
